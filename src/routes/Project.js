@@ -20,7 +20,7 @@ function Project() {
 
     <section className="pro">
       <h1>Projects</h1>
-      <p>Things i've built so far</p>
+      <p>Some Of The Things i've built so far.</p>
     </section>
 
   {/* slide one */}
