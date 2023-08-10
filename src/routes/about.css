@@ -1,0 +1,16 @@
+.about {
+    text-align: center;
+    padding-top: 70px;
+    line-height: 36px;
+}
+.about h1 {
+    padding-bottom: 21px;
+}
+
+@media (max-width:768px) {
+    .about {
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 23px;
+    }
+}
